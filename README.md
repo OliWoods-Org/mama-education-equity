@@ -70,3 +70,19 @@ Teachers, curriculum designers, education researchers, parents, developers
   <br><br>
   <sub>Built with <a href="https://mama.oliwoods.ai">MAMA</a> · Powered by <a href="https://cofounder.software">CoFounder</a><br>GPL-3.0 — Fork it. Deploy it. Make an impact.</sub>
 </p>
+
+## Expanded Agents (v2)
+
+| Agent | Role |
+|-------|------|
+| **TutorBot** | Adaptive tutoring across subjects, Socratic method |
+| **CurriculumAdapter** | Adjusts difficulty and style to student pace |
+| **GapDetector** | Identifies knowledge gaps from assessments |
+| **TeacherAssistant** | Differentiated materials, lesson planning |
+| **ParentDashboard** | Progress reports, engagement suggestions |
+| **ResourceFinder** | Free educational resources, programs |
+| **CollegeAccessAgent** | First-gen college guidance, application help, essay review, FAFSA walkthrough, deadline tracking |
+| **ScholarshipFinder** | Match to scholarships by demographics, major, GPA, activities — billions go unclaimed annually |
+| **MentoringMatcher** | Connect students with mentors in their field of interest, same background preferred |
+
+**9 agents. COPPA compliant. No student data sold. Ever.**
